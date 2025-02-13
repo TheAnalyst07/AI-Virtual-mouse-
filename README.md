@@ -7,9 +7,7 @@ A **gesture-controlled virtual mouse** using **Python, OpenCV, and MediaPipe**, 
 - **Click** 🖱️ → Tap index & middle fingers together
 - **Scroll** 🔄 → Move fingers up/down
 - **Zoom In/Out** 🔍 → Use both hands to zoom smoothly
-
-## Demo 🎥
-![Demo GIF](your-demo-link-here)
+  
 
 ## Installation 📥
 ### 1️⃣ Clone the Repository
